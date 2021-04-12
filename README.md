@@ -18,8 +18,9 @@ Start Server
 REST-API should start at http://localhost:3001.
 
 Start Client
-1. Run `npm install`
-2. Run `npm start`
+1. Make sure you are in a root of the project
+2. Run `npm install`
+3. Run `npm start`
 
 A basic example should start at http://localhost:3000.
 
